@@ -1,0 +1,14 @@
+c:\Users\Evan\OneDrive\Visual_Studios_Code_Projs\FreeCodeCamp_C#_Certification\Debug101\bin\Debug\net9.0\Debug101.exe
+C:\Users\Evan\OneDrive\Visual_Studios_Code_Projs\FreeCodeCamp_C#_Certification\Debug101\bin\Debug\net9.0\Debug101.deps.json
+C:\Users\Evan\OneDrive\Visual_Studios_Code_Projs\FreeCodeCamp_C#_Certification\Debug101\bin\Debug\net9.0\Debug101.runtimeconfig.json
+c:\Users\Evan\OneDrive\Visual_Studios_Code_Projs\FreeCodeCamp_C#_Certification\Debug101\bin\Debug\net9.0\Debug101.dll
+c:\Users\Evan\OneDrive\Visual_Studios_Code_Projs\FreeCodeCamp_C#_Certification\Debug101\bin\Debug\net9.0\Debug101.pdb
+c:\Users\Evan\OneDrive\Visual_Studios_Code_Projs\FreeCodeCamp_C#_Certification\Debug101\obj\Debug\net9.0\Debug101.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Evan\OneDrive\Visual_Studios_Code_Projs\FreeCodeCamp_C#_Certification\Debug101\obj\Debug\net9.0\Debug101.AssemblyInfoInputs.cache
+c:\Users\Evan\OneDrive\Visual_Studios_Code_Projs\FreeCodeCamp_C#_Certification\Debug101\obj\Debug\net9.0\Debug101.AssemblyInfo.cs
+c:\Users\Evan\OneDrive\Visual_Studios_Code_Projs\FreeCodeCamp_C#_Certification\Debug101\obj\Debug\net9.0\Debug101.csproj.CoreCompileInputs.cache
+c:\Users\Evan\OneDrive\Visual_Studios_Code_Projs\FreeCodeCamp_C#_Certification\Debug101\obj\Debug\net9.0\Debug101.dll
+c:\Users\Evan\OneDrive\Visual_Studios_Code_Projs\FreeCodeCamp_C#_Certification\Debug101\obj\Debug\net9.0\refint\Debug101.dll
+c:\Users\Evan\OneDrive\Visual_Studios_Code_Projs\FreeCodeCamp_C#_Certification\Debug101\obj\Debug\net9.0\Debug101.pdb
+C:\Users\Evan\OneDrive\Visual_Studios_Code_Projs\FreeCodeCamp_C#_Certification\Debug101\obj\Debug\net9.0\Debug101.genruntimeconfig.cache
+C:\Users\Evan\OneDrive\Visual_Studios_Code_Projs\FreeCodeCamp_C#_Certification\Debug101\obj\Debug\net9.0\ref\Debug101.dll
