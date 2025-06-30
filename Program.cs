@@ -1,7 +1,6 @@
 ﻿/* 
 This code uses a names array and corresponding methods to display
 greeting messages
-A call stack is used to track the current point of execution.
 */
 
 string[] names = new string[] { "Sophia", "Andrew", "AllGreetings" };

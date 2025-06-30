@@ -12,3 +12,4 @@ c:\Users\Evan\OneDrive\Visual_Studios_Code_Projs\FreeCodeCamp_C#_Certification\D
 c:\Users\Evan\OneDrive\Visual_Studios_Code_Projs\FreeCodeCamp_C#_Certification\Debug101\obj\Debug\net9.0\Debug101.pdb
 C:\Users\Evan\OneDrive\Visual_Studios_Code_Projs\FreeCodeCamp_C#_Certification\Debug101\obj\Debug\net9.0\Debug101.genruntimeconfig.cache
 C:\Users\Evan\OneDrive\Visual_Studios_Code_Projs\FreeCodeCamp_C#_Certification\Debug101\obj\Debug\net9.0\ref\Debug101.dll
+C:\Users\Evan\OneDrive\Visual_Studios_Code_Projs\FreeCodeCamp_C#_Certification\Debug101\obj\Debug\net9.0\Debug101.sourcelink.json

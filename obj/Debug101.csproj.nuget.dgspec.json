@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Evan\\OneDrive\\Visual_Studios_Code_Projs\\FreeCodeCamp_C#_Certification\\Debug101\\Debug101.csproj": {}
+    "c:\\Users\\Evan\\OneDrive\\Visual_Studios_Code_Projs\\FreeCodeCamp_C#_Certification\\Debug101\\Debug101.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Evan\\OneDrive\\Visual_Studios_Code_Projs\\FreeCodeCamp_C#_Certification\\Debug101\\Debug101.csproj": {
+    "c:\\Users\\Evan\\OneDrive\\Visual_Studios_Code_Projs\\FreeCodeCamp_C#_Certification\\Debug101\\Debug101.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Evan\\OneDrive\\Visual_Studios_Code_Projs\\FreeCodeCamp_C#_Certification\\Debug101\\Debug101.csproj",
+        "projectUniqueName": "c:\\Users\\Evan\\OneDrive\\Visual_Studios_Code_Projs\\FreeCodeCamp_C#_Certification\\Debug101\\Debug101.csproj",
         "projectName": "Debug101",
-        "projectPath": "C:\\Users\\Evan\\OneDrive\\Visual_Studios_Code_Projs\\FreeCodeCamp_C#_Certification\\Debug101\\Debug101.csproj",
+        "projectPath": "c:\\Users\\Evan\\OneDrive\\Visual_Studios_Code_Projs\\FreeCodeCamp_C#_Certification\\Debug101\\Debug101.csproj",
         "packagesPath": "C:\\Users\\Evan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Evan\\OneDrive\\Visual_Studios_Code_Projs\\FreeCodeCamp_C#_Certification\\Debug101\\obj\\",
+        "outputPath": "c:\\Users\\Evan\\OneDrive\\Visual_Studios_Code_Projs\\FreeCodeCamp_C#_Certification\\Debug101\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
