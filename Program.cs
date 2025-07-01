@@ -1,34 +1,21 @@
-﻿/* 
-This code uses a names array and corresponding methods to display
-greeting messages
+﻿/*
+Try-Catch: Consists of a try block followed by catch(s) clauses where that block is ran when the it catches the exception/eror 
+
+Try-Finally: Consists of a try block followed by a finally block. Typically the finally block is ran when control leaves a try statement.
+
+Try-Catch-Finally: Just a combination of the previous two
 */
 
-string[] names = new string[] { "Sophia", "Andrew", "AllGreetings" };
-
-string messageText = "";
-
-foreach (string name in names)
+try
 {
-    if (name == "Sophia")
-        messageText = SophiaMessage();
-    else if (name == "Andrew")
-        messageText = AndrewMessage();
-    else if (name == "AllGreetings")
-        messageText = SophiaMessage();
-        messageText = messageText + "\n\r" + AndrewMessage();
+    System.Console.WriteLine("Inside the Try block");
 
-    Console.WriteLine(messageText + "\n\r");
+    for (int i = 0; i < 10; i++)
+    {
+        Console.WriteLine("#:" + (i + 1));
+    }
 }
-
-bool pauseCode = true;
-while (pauseCode == true);
-
-static string SophiaMessage()
+finally
 {
-    return "Hello, my name is Sophia.";
-}
-
-static string AndrewMessage()
-{
-    return "Hi, my name is Andrew. Good to meet you.";
+    Console.WriteLine("Inside the finally block now!");
 }
