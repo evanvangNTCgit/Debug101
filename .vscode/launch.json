@@ -6,7 +6,7 @@
         "type": "coreclr",
         "request": "launch",
         "preLaunchTask": "buildProject123",
-        "program": "${workspaceFolder}/Project123/bin/Debug/net7.0/Project123.dll",
+        "program": "${workspaceFolder}a/Project123/bin/Debug/net7.0/Project123.dll",
         "args": [],
         "cwd": "${workspaceFolder}/Project123",
         "console": "internalConsole",
@@ -21,6 +21,17 @@
         "args": [],
         "cwd": "${workspaceFolder}/Project456",
         "console": "internalConsole",
+        "stopAtEntry": false
+    },
+    {
+        "name": "EvansDebugger",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "buildEvansDebugger",
+        "args": [],
+        "cwd": "${workspaceFolder}/EvansDebugger",
+        "program": "${workspaceFolder}/EvansDebugger/bin/Debug/net9.0/Debug101.dll",
+        "console": "integratedTerminal",
         "stopAtEntry": false
     }
 ]

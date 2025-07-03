@@ -1,0 +1,41 @@
+{
+"version": "2.0.0",
+"tasks": [
+    {
+        "label": "buildProject123",
+        "command": "dotnet",
+        "type": "process",
+        "args": [
+            "build",
+            "${workspaceFolder}/Project123/Project123.csproj",
+            "/property:GenerateFullPaths=true",
+            "/consoleloggerparameters:NoSummary"
+        ],
+        "problemMatcher": "$msCompile"
+    },
+    {
+        "label": "buildProject456",
+        "command": "dotnet",
+        "type": "process",
+        "args": [
+            "build",
+            "${workspaceFolder}/Project456/Project456.csproj",
+            "/property:GenerateFullPaths=true",
+            "/consoleloggerparameters:NoSummary"
+        ],
+        "problemMatcher": "$msCompile"
+    },
+    {
+        "label": "buildEvansDebugger",
+        "command": "dotnet",
+        "type": "process",
+        "args": [
+            "build",
+            "${workspaceFolder}/EvansDebugger/Debug101.csproj",
+            "/property:GenerateFullPaths=true",
+            "/consoleloggerparameters:NoSummary"
+        ],
+        "problemMatcher": "$msCompile"
+    }
+]
+}
